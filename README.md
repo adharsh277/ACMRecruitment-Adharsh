@@ -1,2 +1,2 @@
 # ACMRecruitment-Adharsh
-This repo contains code and all
+This repository contains my solutions for ACM Recruitment tasks.
